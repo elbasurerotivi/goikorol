@@ -8,7 +8,8 @@ const firebaseConfig = {
   projectId: "goikorol",
   storageBucket: "goikorol.firebasestorage.app",
   messagingSenderId: "524799531120",
-  appId: "1:524799531120:web:002688b10f2491f5ccbcb5"
+  appId: "1:524799531120:web:002688b10f2491f5ccbcb5",
+  measurementId: "G-RX6J13245F"
 };
 
 const app = initializeApp(firebaseConfig);
